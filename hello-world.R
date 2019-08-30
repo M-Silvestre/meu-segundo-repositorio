@@ -1,1 +1,1 @@
-print("From the mist a shape, a ship is taking form...")
+print("From the mist, a shape, a ship is taking form...")
