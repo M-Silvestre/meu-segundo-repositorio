@@ -1,1 +1,1 @@
-print("From the mist, a shape, a ship is taking form...")
+print("TO LEAD THE WAR MACHINE! TO RULE THE WAVES AND LEAD THE KRIEGSMARINE!")
